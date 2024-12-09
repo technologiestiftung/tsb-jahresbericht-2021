@@ -7,7 +7,7 @@
     "@testing-library/react": "13.3.0",
     "@testing-library/user-event": "14.2.0",
     "chart.js": "^3.8.0",
-    "classnames": "2.3.1",
+    "classnames": "2.5.1",
     "eslint": "^8.6.0",
     "eslint-plugin-prettier": "4.0.0",
     "eslint-plugin-react": "7.30.0",
