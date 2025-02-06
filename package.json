@@ -45,6 +45,6 @@
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^8.5.0",
     "eslint-config-react": "^1.1.7",
-    "sass": "1.52.3"
+    "sass": "1.84.0"
   }
 }
